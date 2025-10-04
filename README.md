@@ -2,4 +2,4 @@
 <br>
 This is My first Repository
 <br>
-inventor-shekhAmberJawed
+Author-shekhAmberJawed
